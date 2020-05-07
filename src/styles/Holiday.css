@@ -1,0 +1,25 @@
+.holidays {
+  list-style: none;
+}
+.holidays :hover {
+  cursor: pointer;
+  background-color: lightpink;
+}
+#lists {
+  list-style: none;
+  display: none;
+  position: absolute;
+  background-color: lightyellow;
+  padding: 0px;
+  text-align: center;
+}
+#lists.active {
+  display: block;
+}
+
+.btn {
+  background-color: lightpink;
+  width: 315px;
+  font-size: 16px;
+  font-family: Tahoma;
+}

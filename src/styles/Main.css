@@ -1,0 +1,31 @@
+.yearArea {
+  display: flex;
+  justify-content: center;
+}
+
+.time {
+  margin-left: 8cm;
+  font-family: Tahoma;
+  font-size: 16px;
+}
+
+.holidays {
+  margin-left: 80%;
+  margin-top: -12%;
+}
+.dayDates {
+  margin-top: 0.5cm;
+  margin-left: 8cm;
+}
+.year {
+  font-family: Tahoma;
+  font-size: 16px;
+}
+.leftButtonYear {
+  font-family: Tahoma;
+  font-size: 16px;
+}
+.rightButtonYear {
+  font-family: Tahoma;
+  font-size: 16px;
+}
